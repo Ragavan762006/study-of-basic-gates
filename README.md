@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### RAGAVAN E
+### 212223040160
+### EXP1 STUDY OF LOGIC GATES
 
 **AIM:** 
 
@@ -63,17 +65,26 @@ Y= A⊕B
 
 
 **PROGRAM**
+![WhatsApp Image 2025-03-17 at 10 13 20_14efb063](https://github.com/user-attachments/assets/a7ccf971-50cc-4dd9-904f-2d299cc8754f)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
  
-**Logic symbol & Truthtable**
+**Logic symbol & Truthtable:**
+
+![image](https://github.com/user-attachments/assets/3d587784-cff7-48f7-a426-a7d0bbe62ae6)
+
 
 **RTL realization Output:** 
 
-**RTL**
+![WhatsApp Image 2025-03-17 at 10 13 50_2c94c965](https://github.com/user-attachments/assets/5746ea73-55bc-4b73-8124-f13f5f25bc72)
+
+
+
+**RTL:**
+
+![WhatsApp Image 2025-03-17 at 10 29 19_6172f6f3](https://github.com/user-attachments/assets/10e69196-b902-49c1-b69f-6a3160682fb1)
+
 
 **Result:**
 
+Thus the truth table of logic gates (AND,OR,NOT,NAND,NOR,XOR,XNOR) is successfully implemented and verified using verilog programmming in Quartus II.
 
